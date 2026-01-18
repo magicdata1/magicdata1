@@ -20,7 +20,7 @@ with analytics, data modelling, cloud concepts, and real‑world business projec
 ---
 
 **Tech Stack**
-Data & Visualisation
+- Data & Visualisation
 - Tableau • Power BI • Excel  
 
 **Programming & Databases**
