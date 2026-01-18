@@ -1,16 +1,38 @@
-## Hi there 👋
+<h2 style="font-weight: normal; color:#1C7ED6;">Hi, I'm Smaragdi</h2>
 
-<!--
-**magicdata1/magicdata1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p style="font-size: 20px; color:#1C7ED6;">
+Data Analyst • Business Intelligence Analyst • Tableau & Power BI Enthusiast
+</p>
 
-Here are some ideas to get you started:
+<hr style="border: 1px solid #d0d7de; width: 80%;">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 style="font-weight: normal;">About Me</h3>
+
+
+---
+I am a motivated and detail‑oriented Data Analyst with a strong foundation in 
+Tableau, Power BI, SQL, Python, and Excel.  
+I enjoy transforming raw data into meaningful insights and building clear,  
+visually compelling dashboards that drive decisions.  
+I recently completed the Just IT Data Technician Bootcamp, gaining hands‑on experience  
+with analytics, data modelling, cloud concepts, and real‑world business projects.
+
+---
+
+**Tech Stack**
+Data & Visualisation
+- Tableau • Power BI • Excel  
+
+**Programming & Databases**
+- SQL • Python (Pandas, Matplotlib, Seaborn)
+
+**Cloud & Platforms**
+- Azure Fundamentals • GitHub • Google Colab  
+
+---
+
+**Fun Facts**
+- I love data, dashboards, and storytelling  
+- Big fan of strategy games (Hearthstone!)  
+- Heavy metal listener 🎸  
+- Creative, analytical, and always learning  
