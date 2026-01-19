@@ -22,11 +22,13 @@ with analytics, data modelling, cloud concepts, and real‑world business projec
 <h3 style="font-weight: normal;">Tech Stack</h3>
 
 **Tools & Visualisation**
+
  • Microsoft Excel (Formulas, PivotTables, PowerQuery)
  • Tableau (Dashboards, Calculated Fields)
  • Power BI (DAX, Data Modelling)
 
 **Programming**
+
  • Python
  • Pandas
  • NumPy
@@ -34,11 +36,13 @@ with analytics, data modelling, cloud concepts, and real‑world business projec
  • Seaborn
 
 **SQL**
+
  • Joins
  • Aggregations
  • Stored Procedures
 
 **Cloud & Data Platforms**
+
  • Azure Fundamentals
  • Relational Data (SQL Database)
  • Non‑Relational Data (Cosmos DB)
@@ -49,6 +53,7 @@ with analytics, data modelling, cloud concepts, and real‑world business projec
 ---
 
 **Fun Facts**
+
  • I love data, dashboards, and storytelling  
  • Big fan of strategy games (Hearthstone!)  
  • Heavy metal listener 🎸  
