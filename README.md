@@ -19,7 +19,7 @@ with analytics, data modelling, cloud concepts, and real‑world business projec
 
 ---
 
-##Tech Stack##
+<h3 style="font-weight: normal;">Tech Stack</h3>
 
 **Tools & Visualisation**
  • Microsoft Excel (Formulas, PivotTables, PowerQuery)
