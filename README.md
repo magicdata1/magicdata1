@@ -19,20 +19,37 @@ with analytics, data modelling, cloud concepts, and real‑world business projec
 
 ---
 
-**Tech Stack**
-- Data & Visualisation
-- Tableau • Power BI • Excel  
+##Tech Stack##
 
-**Programming & Databases**
-- SQL • Python (Pandas, Matplotlib, Seaborn)
+**Tools & Visualisation**
+ • Microsoft Excel (Formulas, PivotTables, PowerQuery)
+ • Tableau (Dashboards, Calculated Fields)
+ • Power BI (DAX, Data Modelling)
 
-**Cloud & Platforms**
-- Azure Fundamentals • GitHub • Google Colab  
+**Programming**
+ • Python
+ • Pandas
+ • NumPy
+ • Matplotlib
+ • Seaborn
+
+**SQL**
+ • Joins
+ • Aggregations
+ • Stored Procedures
+
+**Cloud & Data Platforms**
+ • Azure Fundamentals
+ • Relational Data (SQL Database)
+ • Non‑Relational Data (Cosmos DB)
+ • MS Fabric
+ • SaaS / PaaS / IaaS
+ • Google Colab 
 
 ---
 
 **Fun Facts**
-- I love data, dashboards, and storytelling  
-- Big fan of strategy games (Hearthstone!)  
-- Heavy metal listener 🎸  
-- Creative, analytical, and always learning  
+ • I love data, dashboards, and storytelling  
+ • Big fan of strategy games (Hearthstone!)  
+ • Heavy metal listener 🎸  
+ • Creative, analytical, and always learning  
